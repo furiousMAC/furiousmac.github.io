@@ -6,6 +6,12 @@ permalink: /publications/
 
 # Group Publications
 
+#### Three Years Later: A Study of MAC Address Randomization In Mobile Devices And When It Succeeds
+- **Abstract**: Mobile device manufacturers and operating system developers increasingly deploy MAC address randomization to protect user privacy and prevent adversaries from tracking persistent hardware identifiers. Early MAC address randomization implementations suffered from logic bugs and information leakages that defeated the privacy benefits realized by using temporary, random addresses, allowing devices and users to be tracked in the wild. Recent work either assumes these implementation flaws continue to exist in modern MAC address randomization implementations, or considers only dated software or small numbers of devices. In this work, we revisit MAC address randomization by performing a cross-sectional study of 160 models of mobile phones, including modern devices released subsequent to previous studies. We tested each of these phones in a lab setting to determine whether it uses randomization, under what conditions it randomizes its MAC address, and whether it mitigates known tracking vulnerabilities. Our results show that, although very new phones with updated operating systems generally provide a high degree of privacy to their users, there are still many phones in wide use today that do not effectively prevent tracking.
+- **Authors**: Ellis Fenske, Dane Brown, Jeremy Martin, Travis Mayberry, Peter Ryan, and Erik Rye 
+- **Venus**: Proceedings Privacy Enhancing Technologies (PETS) Symposium, 2021
+- **Link**: [Local](/files/popets-2021-0042.pdf)
+
 ### 2019
 
 #### Handoff All Your Privacy -- A Review of Apple's Bluetooth Low Energy Continuity Protocol

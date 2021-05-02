@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Furious MAC
+title: FuriousMAC
 email: #
 description: >- # this means to ignore newlines until "baseurl:"
   Furious MAC is a project to understand, map, and correlate wireless hardware identifiers
